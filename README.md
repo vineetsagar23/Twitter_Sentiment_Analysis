@@ -21,3 +21,10 @@ To complete the project we have leveraged following resources:
 ## Project Flow
 
 <img align="center" src="image/Pic1.jpg" height=300>
+
+- Retrieve Twitter Data: Retrieve Twitter tweets and save them in a data frame.
+- Clean Up The Data: To make tweets easier to work with, remove unused and redundant data.
+- Create a Word Cloud: With TextBlob, create a word cloud to identify the top 20 trends in the subject at hand.
+- Conduct a sentiment analysis to ascertain whether the general public's attitude is Positive, Neutral, or Negative.
+
+<img align="center" src="image/Pic2.jpg" height=300>
