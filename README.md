@@ -17,3 +17,7 @@ To complete the project we have leveraged following resources:
 -	TweePy
 -	TextBlob
 -	Twitter API
+
+## Project Flow
+
+<img align="center" src="img/roadmap.jpg" height=300>
