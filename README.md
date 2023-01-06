@@ -8,3 +8,11 @@ The goal of our sentiment analysis project is to fetch tweets belonging to the h
 ## Abstract
 
 In this project, Twitter will be used to source tweets based on topics that are popular on the platform or user input using Python and a Twitter Developer Account. Additionally, we will clean and process the data in order to analyze the popular search terms from related topics. To do this, we will create a word cloud plot of key terms relevant to the search topic in order to identify the key phrase, and then conduct a sentiment analysis in order to ascertain how the general public feels about the subject.
+
+## Resources Used
+	To complete the project we have leveraged following resources:
+- Python
+-	Natural Language Processing (NLP)
+-	TextBlob
+-	TweePy
+-	Twitter API
