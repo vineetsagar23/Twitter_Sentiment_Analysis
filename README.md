@@ -20,4 +20,4 @@ To complete the project we have leveraged following resources:
 
 ## Project Flow
 
-<img align="center" src="img/roadmap.jpg" height=300>
+<img align="center" src="image/Pic1.jpg" height=300>
