@@ -12,8 +12,8 @@ In this project, Twitter will be used to source tweets based on topics that are 
 ## Resources Used
 
 To complete the project we have leveraged following resources:
-- 	Python
+- Python
 -	Natural Language Processing (NLP)
--	TextBlob
 -	TweePy
+-	TextBlob
 -	Twitter API
