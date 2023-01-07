@@ -28,3 +28,39 @@ To complete the project we have leveraged following resources:
 - Conduct a sentiment analysis to ascertain whether the general public's attitude is Positive, Neutral, or Negative.
 
 <img align="center" src="image/Pic2.jpg" height=300>
+
+## Project Outcome
+
+To test the code and review the outcome, I considered reviewing people’s sentiments about Canadian Economy in 2023. The Top 20 words that were part of 100 most recent tweets relate to the topic includes:
+
+1.	Canadian
+2.	Economy
+3.	2023
+4.	Jobs
+5.	Uncertainty
+6.	Number 104000 which refer to the 104000 new jobs that has been created etc.
+
+The following Count Bar Plot lists additional Top 20 words:
+
+<img align="center" src="image/Pic3.jpg" height=300>
+
+As part of the project, a Word Cloud is generated from the Unique Tweets. The World Cloud also reflects similar top words as the Bar Plot above:
+
+1.	Canadian
+2.	Economy
+3.	Job
+4.	Clears
+5.	Uncertainty
+6.	Rebound etc.
+
+Below is the snippet of the Word Cloud for reference:
+
+<img align="center" src="image/Pic4.jpg" height=300>
+
+Further, sentiment analysis was performed on the Tweets using Textblob library to generate Polarity and Subjectivity for each tweet. Polarity of the tweet was used to generate sensitivity flag  - Positive, Neutral or Negative. Given below is result of sentiment analysis:
+
+<img align="center" src="image/Pic5.jpg" height=300>
+
+To grasp more clarity on the sentiment of the Topic for search, a scatter plot was created validate the bar count plot.
+
+<img align="center" src="image/Pic6.jpg" height=300>
