@@ -27,7 +27,7 @@ To complete the project we have leveraged following resources:
 - Create a Word Cloud: With TextBlob, create a word cloud to identify the top 20 trends in the subject at hand.
 - Conduct a sentiment analysis to ascertain whether the general public's attitude is Positive, Neutral, or Negative.
 
-<img align="center" src="image/Pic2.jpg" height=300 width=400>
+<img align="center" src="image/Pic2.jpg" height=500 width=500>
 
 ## Project Outcome
 
@@ -42,7 +42,7 @@ To test the code and review the outcome, I considered reviewing people’s senti
 
 The following Count Bar Plot lists additional Top 20 words:
 
-<img align="center" src="image/Pic3.jpg" height=300>
+<img align="center" src="image/Pic3.jpg" height=500 width=500>
 
 As part of the project, a Word Cloud is generated from the Unique Tweets. The World Cloud also reflects similar top words as the Bar Plot above:
 
