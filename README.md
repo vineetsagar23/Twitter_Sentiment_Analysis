@@ -42,7 +42,7 @@ To test the code and review the outcome, I considered reviewing people’s senti
 
 The following Count Bar Plot lists additional Top 20 words:
 
-<img align="center" src="image/Pic3.jpg" height=650 width=650>
+<img align="center" src="image/Pic3.jpg" height=650 width=700>
 
 As part of the project, a Word Cloud is generated from the Unique Tweets. The World Cloud also reflects similar top words as the Bar Plot above:
 
