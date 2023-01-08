@@ -27,7 +27,7 @@ To complete the project we have leveraged following resources:
 - Create a Word Cloud: With TextBlob, create a word cloud to identify the top 20 trends in the subject at hand.
 - Conduct a sentiment analysis to ascertain whether the general public's attitude is Positive, Neutral, or Negative.
 
-<img align="center" src="image/Pic2.jpg" height=300>
+<img align="center" src="image/Pic2.jpg" height=300 width=400>
 
 ## Project Outcome
 
