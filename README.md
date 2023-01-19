@@ -64,3 +64,7 @@ Further, sentiment analysis was performed on the Tweets using Textblob library t
 To grasp more clarity on the sentiment of the Topic for search, a scatter plot was created validate the bar count plot.
 
 <img align="center" src="image/Pic6.jpg" height=300>
+
+
+<h3>Conclusion</h3>
+As per findings, its evident that Canadians believe in the strength of their economy and are optimistic that they shall soon be out even stronger.
